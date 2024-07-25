@@ -1,0 +1,11 @@
+
+
+
+
+.menu-items {
+    flex-direction: column;
+}
+
+.image-grid {
+    flex-direction: column;
+}

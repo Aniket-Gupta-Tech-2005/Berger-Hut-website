@@ -1,7 +1,8 @@
 # CODTECH-WEB-DEVELOPMENT-TASK2
 ID :-CT6WTD55709,      
-DOMAIN:- WEB DEVELOPMENT,        
-DURATION :- JULY 23rd TO SEPTEMBER 8th,2024
+DOMAIN:- WEB DEVELOPMENT,                                          
+DURATION :- JULY 23rd TO SEPTEMBER 8th,2024,                             
+Mentor :-  Muzammil Ahmed 
 
 Welcome to the Berger Hut website! This project is a restaurant website designed to showcase Berger Hut's offerings, including the menu, reservations, testimonials, gallery, and contact information.
 

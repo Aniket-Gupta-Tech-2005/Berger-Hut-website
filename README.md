@@ -1,8 +1,4 @@
-# CODTECH-WEB-DEVELOPMENT-TASK2
-ID :-CT6WTD55709,      
-DOMAIN:- WEB DEVELOPMENT,                                          
-DURATION :- JULY 23rd TO SEPTEMBER 8th,2024,                             
-Mentor :-  Muzammil Ahmed 
+# Berger Hut website
 
 Welcome to the Berger Hut website! This project is a restaurant website designed to showcase Berger Hut's offerings, including the menu, reservations, testimonials, gallery, and contact information.
 
@@ -41,7 +37,7 @@ This website provides a comprehensive view of Berger Hut, a gourmet burger resta
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/yourusername/berger-hut.git
+   git clone https://github.com/Aniket-Gupta-Tech-2005/Berger-Hut-website.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
@@ -64,6 +60,3 @@ If you want to contribute or make changes:
 ## Contribution
 
 Feel free to fork the repository and submit pull requests with improvements or bug fixes. If you have any suggestions or feedback, please open an issue.
-
-
-CODTECH WEB DEVELOPMENT TASK2 ( E-COMMERCE WEBSITE )
